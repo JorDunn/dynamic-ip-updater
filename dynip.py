@@ -2,14 +2,18 @@ import requests
 import CloudFlare
 import time
 
+def setup(client):
+    '''This function assists the user in first time setup for zones and subzones'''
+    pass
+
 if __name__ == '__main__':
     # default ip so that the script will update dns when started
     ip = '0.0.0.0'
     # fill these in with relevant data
     zone_id = ''
     subzone_id = ''
-    # you can use the .cloudflare.cfg file in this scripts dir to configure
-    # this
+    # you can use the .example.cfg file in this scripts dir to configure
+    # and rename to .cloudflare.cfg
     debug = False
     cf = CloudFlare.CloudFlare(debug=debug)
     # domain info
