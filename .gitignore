@@ -93,3 +93,4 @@ ENV/
 .vscode/
 
 .cloudflare.cfg
+zones.json

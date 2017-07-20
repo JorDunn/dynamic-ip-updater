@@ -1,3 +1,10 @@
-{
-    "": ""
+{ 
+    "nodetwo.net": {
+        "name": "nodetwo.net",
+        "id": "792d88cde97e5b8d0302b2d4f38d0ce3",
+        "subzones": [{
+            "name": "archiepi.nodetwo.net",
+            "id": "90ff3b39ff4a64782dc8a9affa5f13cd"
+        }]
+    }
 }

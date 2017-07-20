@@ -1,0 +1,14 @@
+{ 
+    "example.com": {
+        "name": "example.com",
+        "id": "1901290xuw91091x0910912",
+        "subzones": [{
+            "name": "www.example.com",
+            "id": "2390392j3d0923dj092332d90k"
+        },
+        {
+            "name": "www2.example.com",
+            "id": "389hd8932d28dh238dh23889j"
+        }]
+    }
+}
